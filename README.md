@@ -16,5 +16,9 @@ This project uses the UCI Forest Fires dataset to:
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open `fire-risk-predictor.ipynb` in Jupyter Notebook
 
+## How to View HTML files
+1. Download HTML files
+2. Open file in your browser
+
 ##  Dataset
 From the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Forest+Fires)
